@@ -7,4 +7,4 @@
 
 ### Github Spring Microsevices Project Repository
 
-https://github.com/PacktPublishing/Spring-Microservices/blob/master/Chapter%202/chapter2.bootmessaging/pom.xml
+* https://github.com/PacktPublishing/Spring-Microservices/blob/master/Chapter%202/chapter2.bootmessaging/pom.xml
