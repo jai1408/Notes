@@ -13,3 +13,8 @@
 
 * https://developers.google.com/identity/sign-in/web/sign-in?refresh=1&pli=1
 * https://www.youtube.com/watch?v=qzq0kEUa5lU
+
+***
+* 836830537299-ovl2s3s49li0duk7565208bdhmmd2524.apps.googleusercontent.com
+* 836830537299-rv0ubotrik49pbat2inncbekbrckertf.apps.googleusercontent.com
+* 2e-dZRqQIEjsS2eU4b-AFL_G
