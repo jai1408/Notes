@@ -8,3 +8,8 @@
   *  _FDpS4bw0ojJpiahV_3aj-BE
 * info
   * You can always manage your API credentials and usage later in the API Console.
+  
+***
+
+* https://developers.google.com/identity/sign-in/web/sign-in?refresh=1&pli=1
+* https://www.youtube.com/watch?v=qzq0kEUa5lU
