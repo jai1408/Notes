@@ -10,3 +10,6 @@ Their is Only one rule while doing Method overriding with Access modifiers i.e.
 `If you are overriding any method, overridden method (i.e. declared in subclass) must not be more restrictive.`  
 **Access modifier restrictions in decreasing order:**
 `private>default>protected>public`
+
+#### Covariant return types
+Java 5.0 onwards it is possible to have different return type for a overriding method in child class, but child’s return type should be sub-type of parent’s return type. Overriding method becomes variant with respect to return type.
