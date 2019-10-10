@@ -13,3 +13,11 @@ Their is Only one rule while doing Method overriding with Access modifiers i.e.
 
 #### Covariant return types
 Java 5.0 onwards it is possible to have different return type for a overriding method in child class, but child’s return type should be sub-type of parent’s return type. Overriding method becomes variant with respect to return type.
+***
+#### An interface can have six different things:
+1. Constant variables
+2. Abstract methods
+3. Default methods
+4. Static methods
+5. Private methods
+6. Private Static methods
