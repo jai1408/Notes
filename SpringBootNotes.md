@@ -4,13 +4,13 @@
 * The @ControllerAdvice is an annotation, to handle the exceptions globally
 * The @ExceptionHandler is an annotation used to handle the specific exceptions and sending the custom responses to the client.
 
-ProductNotfoundException.java
+**ProductNotfoundException.java**
 ```
 public class ProductNotfoundException extends RuntimeException {
    private static final long serialVersionUID = 1L;
 }
 ```
-ProductExceptioController.java
+**ProductExceptioController.java**
 ```
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -31,7 +31,7 @@ public class ProductExceptionController {
 * Obtain the SSL certificate – Create a self-signed certificate or get one from a Certificate Authority
 * Enable HTTPS and 443 port
 
-Self-Signed Certificate
+**Self-Signed Certificate**
 ```
 keytool -genkey -alias tomcat -storetype PKCS12 -keyalg RSA -keysize 2048 -keystore keystore.p12 -validity 3650
 Enter keystore password:
@@ -51,7 +51,7 @@ Enter keystore password:
    Is CN = Unknown, OU=Unknown, O = Unknown, L = Unknown, ST = Unknown, C = Unknown correct?
    [no]: yes
 ```
-Configure HTTPS
+**Configure HTTPS**
 ```
 server.port: 443
 server.ssl.key-store: keystore.p12
