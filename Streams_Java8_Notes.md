@@ -16,7 +16,7 @@ Stream Source can be created from Collections, Lists, Sets, ints, longs, doubles
 0 or more ops are allowed.  
 order matters for large datasets: filter first, then sort or map.    
 for very large datasets use ParallelStream to enable multiple threads.
-* anyMatch()
+* anyMatch()  * flatmap()
 * distinct()
 * filter()
 * findFirst()
