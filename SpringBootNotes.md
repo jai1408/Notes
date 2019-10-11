@@ -4,8 +4,9 @@
 
 `@Component` is a generic stereotype for any Spring-managed component. `@Repository`, `@Service`, and `@Controlle`r are specializations of `@Component` for more specific use cases in the persistence, service, and presentation layers, respectively.
 
-| Annotations | Meaning|
-| @Component  │ generic stereotype for any Spring-managed component|
+| Annotations   Meaning|
+| ------------- |:-------------:| -----:|
+| @Component   generic stereotype for any Spring-managed component|
 
 #### Exception Handling
 * The **@ControllerAdvice** is an annotation, to handle the exceptions globally
