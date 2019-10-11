@@ -51,3 +51,7 @@ So there will not be any duplicate column in the relation.
 @Table(name="contractemployee103")  
 @PrimaryKeyJoinColumn(name="ID"
 ```
+***
+### Hiberanate Caching
+
+https://way2java.com/hibernate/hibernate-first-level-and-second-level-cache-examples/
