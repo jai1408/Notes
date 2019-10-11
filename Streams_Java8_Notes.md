@@ -36,3 +36,4 @@ other options reduce the stream to a single summary element.
 * reduce()
 * summaryStatistics()
 
+**https://github.com/joeyajames/Java/blob/master/Java%208%20Streams/JavaStreams.java**
