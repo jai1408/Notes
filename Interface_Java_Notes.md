@@ -1,4 +1,4 @@
-#Inteface Notes
+# Inteface Notes
 
 * Variables can be declared inside of interface declarations.   
 They are implicitly final and static, meaning they cannot be changed by the implementing
@@ -49,7 +49,7 @@ only one of abstract, default, or static permitted
 
 * we can achieve multiple inheritances by using interface whereas with an abstract class it is not possible as multiple inheritance is not supported by java.
 
-* An interface can�t have a constructor within it whereas the abstract class can have a constructor within it
+* An interface can’t have a constructor within it whereas the abstract class can have a constructor within it
 
 ### Exception Handling in overriding
 
@@ -65,7 +65,7 @@ Their is Only one rule while doing Method overriding with Access modifiers i.e.
 `private>default>protected>public`
 
 ### Covariant return types
-Java 5.0 onwards it is possible to have different return type for a overriding method in child class, but child’s return type should be sub-type of parent’s return type. Overriding method becomes variant with respect to return type.
+Java 5.0 onwards it is possible to have different return type for a overriding method in child class, but childâ€™s return type should be sub-type of parentâ€™s return type. Overriding method becomes variant with respect to return type.
 
 ***
 ### An interface can have six different things:
