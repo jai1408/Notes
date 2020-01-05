@@ -32,7 +32,7 @@ Just like the branch name “master” does not have any special meaning in Git,
 
 
 ***
-![Git commit & push](Capture1.PNG)
+![Git commit & push](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
 
 ***
 ![Git create new feature branch](Capture2.PNG)
