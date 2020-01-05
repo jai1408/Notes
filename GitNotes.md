@@ -35,13 +35,13 @@ Just like the branch name “master” does not have any special meaning in Git,
 ![Git commit & push](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
 
 ***
-![Git create new feature branch](Capture2.PNG)
+![Git create new feature branch](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
 
 ***
-![Git push new branch to remote](Capture3.PNG)
+![Git push new branch to remote](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
 
 ***
-![Git merge to master](Capture4.PNG)
+![Git merge to master](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
 
 ***
-![Git delete new feature](Capture5.PNG)
+![Git delete new feature](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
