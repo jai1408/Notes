@@ -2,7 +2,7 @@
 
 **origin** is not special
 
-Just like the branch name “master” does not have any special meaning in Git, neither does “origin”. While “master” is the default name for a starting branch when you run git init which is the only reason it’s widely used, “origin” is the default name for a remote when you run git clone. If you run git clone -o booyah instead, then you will have booyah/master as your default remote branch.
+Just like the branch name â€œmasterâ€� does not have any special meaning in Git, neither does â€œoriginâ€�. While â€œmasterâ€� is the default name for a starting branch when you run git init which is the only reason itâ€™s widely used, â€œoriginâ€� is the default name for a remote when you run git clone. If you run git clone -o booyah instead, then you will have booyah/master as your default remote branch.
 
 ## create a new repository on the command line
 * echo "# First-Angular-Project" >> README.md
@@ -32,16 +32,16 @@ Just like the branch name “master” does not have any special meaning in Git,
 
 
 ***
-![Git commit & push](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
+![Git commit & push](Capture1.PNG)
 
 ***
-![Git create new feature branch](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
+![Git create new feature branch](Capture2.PNG)
 
 ***
-![Git push new branch to remote](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
+![Git push new branch to remote](Capture3.PNG)
 
 ***
-![Git merge to master](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
+![Git merge to master](Capture4.PNG)
 
 ***
-![Git delete new feature](https://github.com/jai1408/Angular-Udemy-Project/blob/master/src/app/Capture1.PNG)
+![Git delete new feature](Capture5.PNG)
